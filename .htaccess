@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Página principal (home)
+RewriteRule ^home$ index.php [L]
+
+# Página de contacto
+RewriteRule ^contactanos$ contacto.php [L]
+
+# Página de términos y condiciones
+RewriteRule ^terminos-y-condiciones$ reglas.php [L]
+
+# Página principal de servicios (aceptando con o sin slash final)
+RewriteRule ^servicios/?$ servicioss/servicios.php [L]
+
+# Subpáginas de servicios (asilo, etc.)
+RewriteRule ^servicios/asilo/?$ servicioss/asilo.php [L]
+RewriteRule ^servicios/permisos-de-trabajo/?$ servicioss/permisos-de-trabajo.php [L]
+RewriteRule ^servicios/peticion-familiar/?$ servicioss/peticion-familiar.php [L]
+RewriteRule ^servicios/cancelacion-de-remocion/?$ servicioss/cancelacion-de-remocion.php [L]
+RewriteRule ^servicios/visa-vawa/?$ servicioss/visa-vawa.php [L]
+RewriteRule ^servicios/visa-u/?$ servicioss/visa-u.php [L]
+RewriteRule ^servicios/ciudadania-y-naturalizacion/?$ servicioss/ciudadania-y-naturalizacion.php [L]
+RewriteRule ^servicios/perdon-waiver/?$ servicioss/perdon-waiver.php [L]
