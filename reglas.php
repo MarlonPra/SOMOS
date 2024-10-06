@@ -104,7 +104,7 @@
         </div>
         <div class="mb-4">
             <h4>Contacto</h4>
-            <p>Para preguntas, comentarios o inquietudes sobre nuestras políticas de privacidad, comuníquese con nosotros a:</p>
+            <p>Para preguntas, comentarios o inquietudes sobre nuestras políticas de privacidad, comuníquese con nosotros a: test</p>
             <p><strong>Dirección:</strong> 425 Legacy Lp, Davenport, FL 33896, EE. UU.<br>
                <strong>Correo Electrónico:</strong> <a href="mailto:servicioalcliente@somosinmigration.com">servicioalcliente@somosinmigration.com</a></p>
         </div>
