@@ -225,7 +225,7 @@
                         style="background-image: url(assets_somos/atencion-personalizada.avif);">
                         <div class="card-body">
                             <div class="icon mb-3">
-                                <img src="assets_somos/Iconos/valorar_caso.svg" alt="Atención personalizada en línea"
+                                <img src="assets_somos/Iconos/valorar_caso.png" alt="Atención personalizada en línea"
                                     class="img-fluid pref-icon">
                             </div>
                             <h5 class="card-title">ASESORAMIENTO SIN COSTO</h5>
@@ -237,7 +237,7 @@
                         style="background-image: url(assets_somos/atencion-cliente.avif);">
                         <div class="card-body">
                             <div class="icon mb-3">
-                                <img src="assets_somos/Iconos/customer_service_icon.svg"
+                                <img src="assets_somos/Iconos/customer_service_icon.png"
                                     alt="Atención personalizada en línea" class="img-fluid pref-icon">
                             </div>
                             <h5 class="card-title">ASISTENCIA PERSONALIZADA EN LÍNEA</h5>
@@ -261,7 +261,7 @@
                         style="background-image: url(assets_somos/metodo-pago.avif);">
                         <div class="card-body">
                             <div class="icon mb-3">
-                                <img src="assets_somos/Iconos/facilidad_pago.svg" alt="Atención personalizada en línea"
+                                <img src="assets_somos/Iconos/facilidad_pago.png" alt="Atención personalizada en línea"
                                     class="img-fluid pref-icon">
                             </div>
                             <h5 class="card-title">OPCIONES DE FINANCIAMIENTO</h5>
