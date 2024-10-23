@@ -2,7 +2,7 @@
 <nav class="navbar custom-navbar navbar-expand-md navbar-light fixed-top" data-spy="affix" data-offset-top="10">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="assets_somos/LOGO CON TITULO SIN FONDO-cropped.svg" alt="">
+            <img src="assets_somos/logo SOMOS en SVG.svg" alt="">
         </a>
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
