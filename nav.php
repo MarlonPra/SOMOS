@@ -34,7 +34,7 @@
                     <a class="nav-link" href="/terminos-y-condiciones">Términos y Condiciones</a>
                 </li>
                 <li class="nav-item">
-                    <a href="/contactanos" class="ml-4 nav-link btn btn-primary btn-sm rounded">Contáctanos</a>
+                    <a href="/contactanos" class="ml-4 nav-link btn btn-primary btn-sm rounded" style="color: white;">Contáctanos</a>
                 </li>
             </ul>
         </div>
