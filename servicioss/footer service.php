@@ -49,10 +49,10 @@
         
             <!-- Tercera columna -->
             <div class="col-md-4 text-center my-3">
-                <h3 class="mb-3">Deuteronomio 2:7</h3>
-                <p class="mb-4">"Pues Jehová tu Dios te ha bendecido en toda obra de tus manos; él sabe que andas por este gran desierto; estos cuarenta años Jehová tu Dios ha estado contigo, y nada te ha faltado."</p>
+                <h3 class="mb-3">Ban Ki-moon</h3>
+                <p class="mb-4">"La inmigración no es sólo sobre fronteras. Es sobre el bienestar de las personas y los derechos humanos."</p>
                 <div>
-                    <img src="../assets_somos/LOGO SIN FONDO.png" alt="Logo" class="img-fluid" style="max-height: 150px;">
+                    <img src="../assets_somos/ICONO-SOMOS-CON-REBORDE.png" alt="Logo" class="img-fluid" style="max-height: 150px;">
                 </div>
             </div>
         </div>

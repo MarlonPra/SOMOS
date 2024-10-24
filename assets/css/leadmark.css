@@ -11611,7 +11611,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(../../assets_somos/BANNER.png) no-repeat center top fixed;
+  background: url(../../assets_somos/banner-inferior-paguna-web-somos.png) no-repeat center 2cm fixed;
   background-size: cover;
   color: #fff;
 }
@@ -11628,7 +11628,7 @@ textarea.form-control {
   top: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.7);
   z-index: 1;
 }
 
